@@ -16,6 +16,8 @@ audio.addEventListener('play', () => {
 
 	const tracks = audio.textTracks[0];
 
+	tracks.mode = 'hidden';
+
 	// each individual subtitle/statement/sentence is called a 'cue'
 
 	const cues = tracks.cues;

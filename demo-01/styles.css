@@ -20,3 +20,6 @@ body {
 	flex-flow: column nowrap;
 	color: red;
 }
+track{
+display: none;
+	}
