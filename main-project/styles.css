@@ -46,7 +46,7 @@ svg {
 
 .box {
 /* 	to change the color of the text, use "color" not "font-color" */
-	color: white;
+	color: black;
 	width: 260px;
 	height: auto;
 	padding: 10px;
