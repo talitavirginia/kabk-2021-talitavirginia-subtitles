@@ -52,7 +52,7 @@
 			<img src="media/plastivore/shutterstock_589542551.jpeg">
 		</div>
 		<div id="media-item-7">
-			<img src="media/plastivore/Plastivore_Britt_Duppen_e04abb8ec9.jpeg">
+			<img src="media/plastivore/csm_Plastivore_Britt_Duppen_e04abb8ec9.jpeg">
 		</div>
 		<div id="media-item-8">
 			<img src="media/plastivore/stomaximus_small_1000.jpeg">
