@@ -45,7 +45,8 @@ svg {
 
 
 .box {
-	font-color: white;
+/* 	to change the color of the text, use "color" not "font-color" */
+	color: white;
 	width: 260px;
 	height: auto;
 	padding: 10px;
@@ -67,8 +68,9 @@ p {
 }
 
 
-
-
+text.hovered tspan {
+	fill: yellow;
+}
 text.hovered {
 	fill: yellow;
 	cursor: pointer;
@@ -141,7 +143,7 @@ nav {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	z-index: 0;
+	z-index: 2;
 	top: 0;
 }
 

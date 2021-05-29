@@ -45,9 +45,15 @@ function attachListeners(){
 function showBox(box, e){
 	
 	if(box){
-		box.style.top = e.pageY + 'px';
+		
+		let top = e.pageY;
+		box.classList.add('visible');
+		if(top > window.innerHeight * 0.6){
+			top-=box.getBoundingClientRect().height
+		}
+		box.style.top = top + 'px';
 		box.style.left = e.pageX + 'px';
-		box.classList.add('visible');	
+
 	}
 	
 }
