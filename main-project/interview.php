@@ -33,7 +33,7 @@
 
 	<div class="media-container">
 		<div id="media-item-1">
-			<img src="media/plastivore/Plastivore_Laysan_albatross_ClaireFacklerNOAA.jpeg
+			<img src="media/plastivore/68585644_10157510362245600_3539432404890419200_n.jpeg
 ">
 		</div>
 		<div id="media-item-2">
@@ -46,7 +46,7 @@
 			<img src="media/plastivore/68403816_10157510362225600_7252851362256388096_n.jpeg">
 		</div>
 		<div id="media-item-5">
-			<img src="media/plastivore/68585644_10157510362245600_3539432404890419200_n.jpeg">
+			<img src="media/plastivore/Plastivore_Laysan_albatross_ClaireFacklerNOAA.jpeg">
 		</div>
 		<div id="media-item-6">
 			<img src="media/plastivore/shutterstock_589542551.jpeg">
