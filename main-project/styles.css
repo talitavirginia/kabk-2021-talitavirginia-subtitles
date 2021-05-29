@@ -86,6 +86,10 @@ video {
 	height: 0px;
 }
 
+body.interview {
+	background: red;
+}
+
 a {
 	color: #FFF;
 }
