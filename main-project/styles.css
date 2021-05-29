@@ -188,7 +188,7 @@ nav {
 }
 
 #media-item-5 {
-	left: 30%;
+	right: 30%;
 	bottom: 15%;
 }
 #media-item-6 {
@@ -204,4 +204,14 @@ nav {
 #media-item-8 {
 	right: 75%;
 	top: 10%;
+}
+
+#media-item-9 {
+	right: 27%;
+	bottom: 16%;
+}
+
+#media-item-10 {
+	left: 16%;
+	top: 29%;
 }
