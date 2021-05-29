@@ -45,10 +45,11 @@ svg {
 
 
 .box {
+	font-color: white;
 	width: 260px;
 	height: auto;
 	padding: 10px;
-	background-color: #ff0000;
+	background-color: #6cbced;
 	border-radius: 5px;
 	font-family: 'NanotechLLC', sans-serif;
 	font-size: 18px;
@@ -69,7 +70,7 @@ p {
 
 
 text.hovered {
-	fill: #00ff00;
+	fill: yellow;
 	cursor: pointer;
 }
 
@@ -179,4 +180,23 @@ nav {
 #media-item-4 {
 	left: 5%;
 	top: 5%;
+}
+
+#media-item-5 {
+	left: 30%;
+	bottom: 15%;
+}
+#media-item-6 {
+	left: 65%;
+	top: 25%;
+}
+
+#media-item-7 {
+	right: 5%;
+	top: 20%;
+}
+
+#media-item-8 {
+	right: 75%;
+	top: 10%;
 }
