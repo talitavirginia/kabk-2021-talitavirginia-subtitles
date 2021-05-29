@@ -33,7 +33,8 @@
 
 	<div class="media-container">
 		<div id="media-item-1">
-			<img src="media/plastivore/csm_Plastivore_Britt_Duppen_e04abb8ec9.jpeg">
+			<img src="media/plastivore/Plastivore_Laysan_albatross_ClaireFacklerNOAA.jpeg
+">
 		</div>
 		<div id="media-item-2">
 			<img src="media/plastivore/19D_PLASTIVORE_worms_2_rotate_crop-695x1024-e1562475493608.jpeg">
@@ -51,7 +52,7 @@
 			<img src="media/plastivore/shutterstock_589542551.jpeg">
 		</div>
 		<div id="media-item-7">
-			<img src="media/plastivore/Plastivore_Laysan_albatross_ClaireFacklerNOAA.jpeg">
+			<img src="media/plastivore/Plastivore_Britt_Duppen_e04abb8ec9.jpeg">
 		</div>
 		<div id="media-item-8">
 			<img src="media/plastivore/stomaximus_small_1000.jpeg">
