@@ -33,7 +33,7 @@
 
 	<div class="media-container">
 		<div id="media-item-1">
-			<img src="media/plastivore/IMG-0222.jpeg">
+			<img src="media/plastivore/csm_Plastivore_Britt_Duppen_e04abb8ec9.jpeg">
 		</div>
 		<div id="media-item-2">
 			<img src="media/plastivore/19D_PLASTIVORE_worms_2_rotate_crop-695x1024-e1562475493608.jpeg">
@@ -48,16 +48,16 @@
 			<img src="media/plastivore/68585644_10157510362245600_3539432404890419200_n.jpeg">
 		</div>
 		<div id="media-item-6">
-			<img src="media/plastivore/8d9df3642b00679e0de460fe14812844c338eeaa.jpeg">
+			<img src="media/plastivore/shutterstock_589542551.jpeg">
 		</div>
 		<div id="media-item-7">
-			<img src="media/plastivore/wax-worm.jpeg">
+			<img src="media/plastivore/Plastivore_Laysan_albatross_ClaireFacklerNOAA.jpeg">
 		</div>
 		<div id="media-item-8">
 			<img src="media/plastivore/stomaximus_small_1000.jpeg">
 		</div>
 		<div id="media-item-9">
-			<img src="media/plastivore/43639087192_0f1d0f8da4_b.jpeg">
+			<img src="media/plastivore/Waxworm4-HaraldGrove-300x200.png">
 		</div>
 		<div id="media-item-10">
 			<img src="media/plastivore/baby_verde1.jpeg">
