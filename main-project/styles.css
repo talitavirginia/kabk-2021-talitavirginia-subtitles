@@ -19,7 +19,6 @@ html, body {
 }
 
 body.index {
-	background-color: black;
 	overflow: hidden;
 	font-size: 20px;
 	line-height: 1.3;
